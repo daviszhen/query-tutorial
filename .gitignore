@@ -134,3 +134,4 @@ savedir/
 *.orc
 *.dat
 *.parquet
+*.csv
